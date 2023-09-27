@@ -1,11 +1,11 @@
 # udacity_repo
 
-git clone
+## git commands
 
-git add
-
-git commit
-
-git status
-
-git push
+- git clone
+- git add
+- git commit
+- git status
+- git push
+- git checkout
+- git branch
